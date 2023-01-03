@@ -10,7 +10,7 @@ Starting with front-end project :
 
 Then we made FullStack project :
 * <a href="https://github.com/BorisLord/eCommerce">E-commerce Website with React / nodeJS / mongoDB,
-<!-- * <a href=""></a>Mobile App using GO as backend and reactNative as frontend. -->
+* <a href="https://github.com/adatechschool/Mobile-Flutter-ABMJ">Mobile App using GO as backend and Flutter as frontend.
 
 Some personnal project I do on my spare time :
 * <a href="https://github.com/BorisLord/portfolio">Building portfolio with Rust and YEW framework,
